@@ -1,6 +1,6 @@
 # Hey! :hand: I'm Jake.  Web Developer @ [jakemiller.io](www.jakemiller.io) 
 
-### I'm a resourceful coder :computer: and automotive :car: enthusiast.
+### I'm a leet coder :computer:, gamer :video_game:, and automotive enthusiast :car:.
 <br/>
 
 ### Here's what I'm currently working on...
@@ -21,4 +21,7 @@
 <img width="28px" style="margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" >
 <img width="28px" style="margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/visualstudio/visualstudio-plain.svg" >
 <img width="28px" style="margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/typescript/typescript-plain.svg" >
+<img width="28px" style="margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/npm/npm-original-wordmark.svg" >
+<img width="28px" style="margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/sketch/sketch-original-wordmark.svg" >
+
 </div>
