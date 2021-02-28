@@ -4,10 +4,15 @@
 <br/>
 
 ### Here's what I'm currently working on...
-CryptoBot - A Discord bot that answers requests with information regarding any of the top 500 crypto coins currently in circulation.
-ImgBeam - Image sharing platform and community.
+### [CryptoBot](https://github.com/jakermate/cyptobot)
+- A Discord bot that answers requests with information regarding any of the top 500 crypto coins currently in circulation.
+
+### [ImgBeam](https://imgbeam.com)
+ - ImgBeam - Image sharing platform and community.
   
+
 ## :gear: Languages and Tech
+
 <div style="display:flex;flex-direction:row">
 <img width="28" style="margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg">
 <img width="28" style="margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original.svg">
