@@ -1,7 +1,9 @@
-# Hey! :hand: I'm Jake.  Web Developer @ [jakemiller.io](www.jakemiller.io) 
+# Hey! :hand: I'm Jake.  Web Developer @ [jakemiller.io](https://www.jakemiller.io) 
 
 ### I'm a leet coder :computer:, gamer :video_game:, and automotive enthusiast :car:.
 <br/>
+
+My main tech stack is ReactJS, NodeJS/ExpressJS, MySQL, CSS-in-JS.
 
 ### Here's what I'm currently working on...
 ### [CryptoBot](https://github.com/jakermate/cyptobot)
@@ -10,8 +12,12 @@
 ### [ImgBeam](https://imgbeam.com)
  - ImgBeam - Image sharing platform and community.
   
+### My current obsession is [TypeScript](https://github.com/microsoft/TypeScript)
+<br/>
+<br/>
 
-## :gear: Languages and Tech
+## :gear: Here's some of the tech I use...
+<br/>
 
 <div style="display:flex;flex-direction:row">
 <img width="28" style="margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg">
