@@ -6,6 +6,8 @@
 My main tech stack is ReactJS, NodeJS/ExpressJS, MySQL, CSS-in-JS.
 
 ### Here's what I'm currently working on...
+### [Bytez](https://github.com/jakermate/bytez)
+- NPM package for converting raw bytes (as provided by most blob metadata queries), and returns a human readable string.  Can also output as base2 unit quantities (units are expressed in amounts of 1024, vs 1000 is base10).
 ### [CryptoBot](https://github.com/jakermate/cyptobot)
 - A Discord bot that answers requests with information regarding any of the top 500 crypto coins currently in circulation.
 
